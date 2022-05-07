@@ -1,5 +1,5 @@
 package A;
-public class MengamatiHasilPerubahanNilaiDariSuatuOperasiMatematis {
+public class A_MengamatiHasilPerubahanNilaiDariSuatuOperasiMatematis {
     public static void main(String[] args) {
         float number1 = 15;
         float number2 = 6;
