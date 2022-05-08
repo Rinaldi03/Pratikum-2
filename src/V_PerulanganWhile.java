@@ -18,4 +18,3 @@ public class V_PerulanganWhile {
         while (y<=50);
     }
 }
-
